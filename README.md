@@ -6,3 +6,6 @@ Screenshot to save.
 
 EXE has template art to start out, although not after Erase...
 No Installer
+
+First: push Spec and/or Hue, Then Template, after if you want to Erase, the template does not work for some reason...still under construction.
+You can change colors each push of Template
